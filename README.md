@@ -1,25 +1,25 @@
-##Detecção de fraudes em transações
+## Detecção de fraudes em transações
    desafio DIO
 
-#Problema de classificação desbalanceada
+# Problema de classificação desbalanceada
 
-#Feature Engineering
+# Feature Engineering
 
-#Logistic Regression
+# Logistic Regression
 
-#Balanceamento de dados
+# Balanceamento de dados
 
-#Modelo Avançado XGBOOST
+# Modelo Avançado XGBOOST
 XGBoost é um dos algaritmos mais usados em competições e mercado.
 
 Ele é mais poderoso que Random Forest para muitos problemas.
 
 
-#Importância das variáveis
+# Importância das variáveis
 Ajuda a entender quais variaveis influenciam mais no modelo.
 
-#Ajuste de hiperparêmetros
+# Ajuste de hiperparêmetros
 Testamos várias combinações para melhorar o modelo
 
-#Explicabilidade (SHAP)
+# Explicabilidade (SHAP)
 SHAP mostra como cada variável influencia a decisão do modelo.
